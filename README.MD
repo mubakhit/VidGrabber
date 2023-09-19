@@ -41,4 +41,6 @@ When you run the script for the first time, it will create the following files a
 
 ## Screenshots
 
-![Alt Text](url)
+![Alt Text](https://github.com/mubakhit/VidGrabber/blob/main/Screenshots/screenshot1.png)
+![Alt Text](https://github.com/mubakhit/VidGrabber/blob/main/Screenshots/screenshot2.png)
+![Alt Text](https://github.com/mubakhit/VidGrabber/blob/main/Screenshots/screenshot3.png)
