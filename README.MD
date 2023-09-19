@@ -14,8 +14,9 @@ Before running the script, make sure you have the following prerequisites:
 
 When you run the script for the first time, it will create the following files and directory:
 
-- **urls.txt**: This is the file where you should input the URLs of the videos you want to download, along with their associated names. The format should be as follows for example:
-  `https://www.youtube.com/watch?v=QohH89Eu5iM "VideoName"`
+- **urls.txt**: This is the file where you should input the URLs of the videos you want to download, along with their associated names. The format should be:
+
+- `https://www.youtube.com/watch?v=QohH89Eu5iM "VideoName"`
   if you got **error** format try remove white spaces from the name.
 
 - **History.json**: This JSON file stores a record of all the videos you have downloaded, including their names, download dates, and original URLs.
