@@ -40,3 +40,5 @@ When you run the script for the first time, it will create the following files a
 - The download history is maintained in the `History.json` file, so you can keep track of your downloads.
 
 ## Screenshots
+
+![Alt Text](url)
